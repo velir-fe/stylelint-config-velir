@@ -1,0 +1,6 @@
+npm WARN ignoring workspace config at /Users/Jeff.Preussner/sites/frontend-toolkit/packages/stylelint/.npmrc 
+
+> @velir-fe/stylelint-config-velir@0.0.2 build
+> echo "running stylelint build" && exit 0
+
+running stylelint build

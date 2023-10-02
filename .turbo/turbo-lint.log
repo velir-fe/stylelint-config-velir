@@ -1,0 +1,22 @@
+npm WARN ignoring workspace config at /Users/Jeff.Preussner/sites/frontend-toolkit/packages/stylelint/.npmrc 
+
+> @velir-fe/stylelint-config-velir@0.0.2 lint
+> eslint './index.js'
+
+
+Oops! Something went wrong! :(
+
+ESLint: 8.45.0
+
+ESLint couldn't find the plugin "eslint-plugin-jsx-a11y".
+
+(The package "eslint-plugin-jsx-a11y" was not found when loaded as a Node module from the directory "/Users/Jeff.Preussner/sites/frontend-toolkit/packages/stylelint".)
+
+It's likely that the plugin isn't installed correctly. Try reinstalling by running the following:
+
+    npm install eslint-plugin-jsx-a11y@latest --save-dev
+
+The plugin "eslint-plugin-jsx-a11y" was referenced from the config file in ".eslintrc » ../../.eslintrc.json".
+
+If you still can't figure out the problem, please stop by https://eslint.org/chat/help to chat with the team.
+
